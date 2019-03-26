@@ -1,0 +1,25 @@
+﻿################################################################################
+# 此 .gitignore 文件已由 Microsoft(R) Visual Studio 自动创建。
+################################################################################
+
+/.vs
+/MQ/RabbitMq/RabbitMq.Consumer.Config/bin/Debug
+/MQ/RabbitMq/RabbitMq.Consumer.Config/obj
+/Core/Common/bin/Debug
+/Core/Common/obj
+/MQ/RabbitMq/RabbitMq.Consumer.Receive/obj
+/MQ/RabbitMq/RabbitMq.Consumer.Receive/bin/Debug
+/MQ/RabbitMq/RabbitMq.Consumer.Send/bin/Debug
+/MQ/RabbitMq/RabbitMq.Consumer.Send/obj
+/MQ/RabbitMq/RabbitMq.Core/bin/Debug
+/MQ/RabbitMq/RabbitMq.Core/obj
+/MQ/RabbitMq/RabbitMq.Receive.Bug/obj
+/MQ/RabbitMq/RabbitMq.Receive.Bug/bin/Debug
+/MQ/RabbitMq/RabbitMq.Receive.Error/bin/Debug
+/MQ/RabbitMq/RabbitMq.Receive.Error/obj
+/MQ/RabbitMq/RabbitMq.Receive.Hello/bin/Debug
+/MQ/RabbitMq/RabbitMq.Receive.Hello/obj
+/MQ/RabbitMq/RabbitMq.Receive.Info/bin/Debug
+/MQ/RabbitMq/RabbitMq.Receive.Info/obj
+/MQ/RabbitMq/RabbitMq.Send/bin/Debug
+/MQ/RabbitMq/RabbitMq.Send/obj
